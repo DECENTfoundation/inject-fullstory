@@ -1,1 +1,1 @@
-# fullstory
+# inject-fullstory
