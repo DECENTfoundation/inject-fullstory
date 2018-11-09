@@ -1,7 +1,7 @@
 {
   "name": "inject-fullstory",
-  "version": "1.0.1",
-  "description": "Injects FullStory tracking scripts.",
+  "version": "1.0.3",
+  "description": "Injects FullStory tracking.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
