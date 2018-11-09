@@ -1,25 +1,25 @@
 {
-  "name": "fullstory",
+  "name": "inject-fullstory",
   "version": "1.0.0",
-  "description": "Injects FullStory tracking scripts.",
+  "description": "Injects inject-fullstory tracking scripts.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AriesDatuin/fullstory.git"
+    "url": "git+https://github.com/AriesDatuin/inject-fullstory.git"
   },
   "keywords": [
     "analytics",
-    "fullstory",
+    "inject-fullstory",
     "tracking",
     "ux"
   ],
   "author": "Aries Datuin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AriesDatuin/fullstory/issues"
+    "url": "https://github.com/AriesDatuin/inject-fullstory/issues"
   },
-  "homepage": "https://github.com/AriesDatuin/fullstory#readme"
+  "homepage": "https://github.com/AriesDatuin/inject-fullstory#readme"
 }
