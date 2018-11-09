@@ -1,6 +1,6 @@
 {
   "name": "inject-fullstory",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Injects FullStory tracking.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "analytics",
-    "inject-fullstory",
+    "fullstory",
     "tracking",
     "ux"
   ],
