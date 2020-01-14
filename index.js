@@ -1,5 +1,4 @@
-var through = require('through2'),
-	gutil = require('gulp-util');
+var through = require('through2');
 
 module.exports = function(opts) {
 
@@ -62,4 +61,4 @@ module.exports = function(opts) {
 		cb(null, file)
 	})
 
-}
+};
