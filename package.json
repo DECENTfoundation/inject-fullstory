@@ -1,6 +1,6 @@
 {
   "name": "inject-fullstory",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Injects FullStory tracking.",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/AriesDatuin/inject-fullstory/issues"
   },
-  "homepage": "https://github.com/AriesDatuin/inject-fullstory#readme",
-  "dependencies": {
-    "through2": "^3.0.1"
-  }
+  "homepage": "https://github.com/AriesDatuin/inject-fullstory#readme"
 }
